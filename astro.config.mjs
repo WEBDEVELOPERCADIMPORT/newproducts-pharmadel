@@ -18,7 +18,7 @@ export default defineConfig({
     plugins: [tailwindcss()]
   },
 
-  site: 'https://newproducts.cadimportinc.com',
+  site: 'https://newproducts.pharmadel.com',
 
   adapter: cloudflare(),
   i18n: {
